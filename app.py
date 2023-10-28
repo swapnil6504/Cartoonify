@@ -45,7 +45,7 @@ def upload():
         img = read_image(file_path)
         line_wdt = 9
         blur_value = 7
-        total_colors = 6
+        total_colors = 4
 
         edge_img = edge_detection(img, line_wdt, blur_value)
         img = color_quantisation(img, total_colors)
