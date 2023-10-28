@@ -7,8 +7,8 @@ A Flask-based web app that lets users instantly cartoonify uploaded images using
 - [Getting Started](#getting-started)
 - [Usage](#usage)
 - [Customization](#customization)
-- [Contributing](#contributing)
 - [License](#license)
+- [Contributors](#contributors)
 
 ## Prerequisites
 
@@ -60,3 +60,11 @@ Before running the project, ensure you have the following installed:
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
+
+## Contributors
+
+- Swapnil Chhibber
+- Saanuj Joshi
+- Anushka Phogat
+- Hirdyansh Mahajan
+- Jaideep Singh Dhunna
