@@ -57,10 +57,6 @@ Before running the project, ensure you have the following installed:
 - Adjust the styling of the web page by modifying the CSS in the `templates/index.html` file.
 - Customize the image processing parameters in the `app.py` file to achieve different cartoon effects.
 
-## Contributing
-
-If you'd like to contribute to this project, please follow the [contribution guidelines](CONTRIBUTING.md).
-
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
