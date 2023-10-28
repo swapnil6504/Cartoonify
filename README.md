@@ -7,7 +7,6 @@ A Flask-based web app that lets users instantly cartoonify uploaded images using
 - [Getting Started](#getting-started)
 - [Usage](#usage)
 - [Customization](#customization)
-- [Contributing](#contributing)
 - [License](#license)
 
 ## Prerequisites
