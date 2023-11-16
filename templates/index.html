@@ -6,9 +6,9 @@
     <title>Cartoonify Image</title>
     <style>
         @import url('https://fonts.googleapis.com/css2?family=Inter&family=Poppins');
-
+        @import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
         body {
-            background-color: black;
+            background-image:linear-gradient(45deg, #ffe0d1, #fd9388);
             font-family: 'Inter', Poppins; 
             margin: 0;
             padding: 0;
@@ -19,9 +19,11 @@
         }
 
         h1 {
-            color: #fcfcfc;
+            color: #FFF;
+            font-size: 50px;
+            font-family: 'Pacifico', cursive;
+            text-shadow: 0px 0px 30px #944468, 0 0 5px #944468;
         }
-
         form {
             margin: 20px;
             display: flex;
@@ -72,8 +74,9 @@
         }
 
         .team-member {
-            margin: 5px 0;
-            color: #fcfcfc;
+            width: 150px;
+            margin: 10px 10px;
+            color: #944468;
         }
 
         .submit{
@@ -81,10 +84,12 @@
         }
 
         .teamflex{
-            margin: 0 15%;
-            display: flex;
-            flex-direction: row;
-            justify-content: space-between;
+          margin: 0 15%;
+          display: flex;
+          flex-direction: row;
+          justify-content: center;
+          align-items: center;
+          flex-wrap: wrap;
         }
 
 
@@ -164,6 +169,7 @@ input[type="file"]::file-selector-button:hover {
 input[type="file"]::file-selector-button:active {
   background-color: #e5e7eb;
 }
+
     </style>
 </head>
 <body>
@@ -182,12 +188,13 @@ input[type="file"]::file-selector-button:active {
     <div class="team-info">
         <h2>Team Members:</h2>
         <div class="teamflex">
-        <p class="team-member">Swapnil Chhibber - 102203078</p>
-        <p class="team-member">Saanuj Joshi - 102203445</p>
-        <p class="team-member">Hirdyansh Mahajan - 102203461</p>
-        <p class="team-member">Jaideep Singh Dhunna - 102203965</p>
-        <p class="team-member">Subham Singh - 102203192</p>
-        <p class="team-member">Anushka Phogat - 102203066</p>
+        <p class="team-member">Swapnil Chhibber<br>102203078</p>
+        <p class="team-member">Saanuj Joshi<br>102203445</p>
+        <p class="team-member">Hirdyansh Mahajan<br>102203461</p>
+        <p class="team-member">Jaideep Singh Dhunna<br>102203965</p>
+        <p class="team-member">Subham Singh<br>102203192</p>
+        <p class="team-member">Anushka Phogat<br>102203066</p>
+        <p class="team-member">Laghudeep Singh<br>102203065</p> 
         </div>
     </div>
 </body>
