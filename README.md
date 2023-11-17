@@ -68,3 +68,5 @@ This project is licensed under the [MIT License](LICENSE).
 - Anushka Phogat
 - Hirdyansh Mahajan
 - Jaideep Singh Dhunna
+- Laghudeep Singh
+- Subham Singh
