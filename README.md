@@ -65,9 +65,3 @@ This project is licensed under the [MIT License](LICENSE).
 
 - Swapnil Chhibber
 - Saanuj Joshi
-- Anushka Phogat
-- Hirdyansh Mahajan
-- Jaideep Singh Dhunna
-- Laghudeep Singh
-- Subham Singh
-- Arjun Shekhar
